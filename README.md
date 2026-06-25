@@ -20,10 +20,10 @@ uptime, kernel version, disk usage and free memory.
 
 Make a script executable and run it:
 
-\```bash
+```bash
 chmod +x system/system-info.sh
 ./system/system-info.sh
-\```
+```
 
 ## Author
 

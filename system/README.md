@@ -15,15 +15,15 @@ Displays basic system information in a readable format.
 - Free memory
 
 **Usage:**
-\```bash
+```bash
 ./system-info.sh
-\```
+```
 
 **Example output:**
-\```
+```
 Hostname:    fedora
 Uptime:      up 58 minutes
 Kernel:      7.0.12-201.fc44.x86_64
 Disk usage:  2%
 Memory free: 20Gi
-\```
+```
