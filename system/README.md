@@ -1,29 +1,9 @@
-# system
+# system/
 
-Scripts for monitoring and reporting on system status.
+Scripts for monitoring and reporting on system status. Useful for quick checks on any Fedora or RHEL-compatible machine.
 
 ## Scripts
 
-### system-info.sh
-Displays basic system information in a readable format.
-
-**Output includes:**
-- Hostname
-- Uptime
-- Kernel version
-- Disk usage (root filesystem)
-- Free memory
-
-**Usage:**
-```bash
-./system-info.sh
-```
-
-**Example output:**
-```
-Hostname:    fedora
-Uptime:      up 58 minutes
-Kernel:      7.0.12-201.fc44.x86_64
-Disk usage:  2%
-Memory free: 20Gi
-```
+| Script | Description |
+| :--- | :--- |
+| [system-info.sh](./system-info.sh) | Displays hostname, uptime, kernel version, disk usage and free memory |
